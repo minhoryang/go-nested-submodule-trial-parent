@@ -1,0 +1,1 @@
+# go-nested-submodule-trial-parent
